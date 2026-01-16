@@ -1,2 +1,3 @@
-# bike-sharing-demand
-Bike Sharing Demand Prediction using Machine Learning and Streamlit
+# Bike-Sharing Demand Prediction
+Predict bike sharing demand using Machine Learning and Streamlit.
+
