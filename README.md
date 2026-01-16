@@ -16,10 +16,16 @@ The project includes a **Streamlit web app** to predict bike rentals based on we
 
 bike-sharing-demand/
 ├── app.py # Streamlit app
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 ├── Dataset CSV files
+
 ├── notebooks # EDA / exploration notebooks
+
 └── models/ # Place the trained model here (https://drive.google.com/file/d/1Vm1LlfU-82CWmyEisg390egp7UD-ydkC/view?usp=sharing)The trained model `bike_demand_model.pkl` is **too large for GitHub**. 
+
 
 
